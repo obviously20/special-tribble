@@ -1,0 +1,15 @@
+﻿  text.c
+D:\2024c语言\text.730\text.730\text.c(20,9): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+D:\2024c语言\text.730\text.730\text.c(20,9): error C2143: 语法错误: 缺少“{”(在“字符串”的前面)
+D:\2024c语言\text.730\text.730\text.c(20,9): error C2059: 语法错误:“字符串”
+D:\2024c语言\text.730\text.730\text.c(20,22): error C2059: 语法错误:“)”
+D:\2024c语言\text.730\text.730\text.c(21,9): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+D:\2024c语言\text.730\text.730\text.c(21,9): error C2143: 语法错误: 缺少“{”(在“字符串”的前面)
+D:\2024c语言\text.730\text.730\text.c(21,9): error C2059: 语法错误:“字符串”
+D:\2024c语言\text.730\text.730\text.c(21,42): error C2059: 语法错误:“)”
+D:\2024c语言\text.730\text.730\text.c(23,8): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+D:\2024c语言\text.730\text.730\text.c(23,8): error C2143: 语法错误: 缺少“{”(在“字符串”的前面)
+D:\2024c语言\text.730\text.730\text.c(23,8): error C2059: 语法错误:“字符串”
+D:\2024c语言\text.730\text.730\text.c(23,20): error C2059: 语法错误:“)”
+D:\2024c语言\text.730\text.730\text.c(25,2): error C2059: 语法错误:“if”
+D:\2024c语言\text.730\text.730\text.c(29,2): error C2059: 语法错误:“else”
