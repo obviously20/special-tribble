@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2024c\u8BED\u8A00\\text.730\\",
+  "WorkspaceRootPath": "D:\\\u4E0A\u4F20github\\special-tribble\\text.730\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAEE1B0C-1E2C-447D-823A-62DD5882A5F9}|text.730\\text.730.vcxproj|D:\\2024c\u8BED\u8A00\\text.730\\text.730\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DAEE1B0C-1E2C-447D-823A-62DD5882A5F9}|text.730\\text.730.vcxproj|D:\\\u4E0A\u4F20github\\special-tribble\\text.730\\text.730\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DAEE1B0C-1E2C-447D-823A-62DD5882A5F9}|text.730\\text.730.vcxproj|solutionrelative:text.730\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "text.c",
-              "DocumentMoniker": "D:\\2024c\u8BED\u8A00\\text.730\\text.730\\text.c",
+              "DocumentMoniker": "D:\\\u4E0A\u4F20github\\special-tribble\\text.730\\text.730\\text.c",
               "RelativeDocumentMoniker": "text.730\\text.c",
-              "ToolTip": "D:\\2024c\u8BED\u8A00\\text.730\\text.730\\text.c",
+              "ToolTip": "D:\\\u4E0A\u4F20github\\special-tribble\\text.730\\text.730\\text.c",
               "RelativeToolTip": "text.730\\text.c",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAG4AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAG4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-07-30T13:48:25.879Z",
               "EditorCaption": ""
